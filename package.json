@@ -1,0 +1,26 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Pokemon Landing-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicknamed19/Landing-Page.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jose Julian Fuentes Carreño nicknamed19@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicknamed19/Landing-Page/issues"
+  },
+  "homepage": "https://github.com/nicknamed19/Landing-Page#readme",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  },
+  "type": "module" 
+}
